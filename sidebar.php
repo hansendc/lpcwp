@@ -4,14 +4,16 @@
 <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar(1) ) : // begin primary sidebar widgets ?>
 
 <?php endif; // end primary sidebar widgets  ?>
+<!--
 			<li id="attend-links">
 				<h3><?php _e( 'BoFS and Schedule', 'sandbox' ) ?></h3>
 				<ul>
-				<li class="page_item page-item-1"><a href="/2009/schedule/" title="Schedule">Schedule</a></li>
-				<li class="page_item page-item-2"><a href="/ocw/events/2009bofs/proposals/" title="BoF list">BoF list</a></li>
+				<li class="page_item page-item-1"><a href="/2010/schedule/" title="Schedule">Schedule</a></li>
+				<li class="page_item page-item-2"><a href="/ocw/events/2010bofs/proposals/" title="BoF list">BoF list</a></li>
 				<li class="page_item page-item-2"><a href="<?php bloginfo('url') ?>/submit/" title="Proposal List">Proposal list</a></li>
 				</ul>
 			</li>
+-->
 
 
 			<li id="social-links">
@@ -25,26 +27,30 @@
 				</ul>
 			</li>
 
-			<li>
+			<div id="sponsor-links">
 				<h3><?php _e( 'Sponsors', 'sandbox' ) ?></h3>
-				<ul class="sponsor-links">
-					<li><a href="http://intel.com"><img src="/2009/style/intel_logo.png" /></a></li>
-					<li><a href="http://qualcomm.com"><img src="/2009/style/Qualcomm.png" /></a></li>
-					<li><a href="http://ibm.com"><img src="/2009/style/IBMtm.png" /></a></li>
-					<li><a href="http://google.com"><img src="/2009/style/google_logo.gif" /></a></li>
-					<li><a href="http://hp.com"><img src="/2009/style/hp_logo.gif" /></a></li>
-					<li><a href="http://novell.com"><img src="/2009/style/novelllogo.png" /></a></li>
-					<li><a href="http://canonical.com"><img src="/2009/style/canonical.png" /></a></li>
-					<li><a href="http://www.windriver.com/"><img src="/2009/style/windriver-logo.png" /></a></li>
-				</ul>
+				<br>
+				<h5><?php _e( 'Platinum', 'sandbox' ) ?></h5>
+				<br><a href="http://intel.com"><img src="/2010/style/intel_logo.png" /></a>
+				<br>
+				<br><a href="http://qualcomm.com"><img src="/2010/style/Qualcomm.png" /></a>
+				<br>
+				<br><a href="http://ibm.com"><img src="/2010/style/IBMtm.png" /></a>
+				<br>&nbsp;
+				<h5><?php _e( 'Gold', 'sandbox' ) ?></h5>
+				<br><a href="http://google.com"><img src="/2010/style/google_logo.gif" /></a>
+				<h5><?php _e( 'Silver', 'sandbox' ) ?></h5>
+				<br><a href="http://hp.com"><img src="/2010/style/hp_logo.gif" /></a>
+				<br>
+				<br><a href="http://canonical.com"><img src="/2010/style/canonical.png" /></a>
 				<h3><?php _e( 'Media Sponsors', 'sandbox' ) ?></h3>
 				<ul class="sponsor-links">
 
-					<li><a href="http://lwn.net"><img src="/2009/style/lwnlogo.png" /></a></li>
-					<li><a href="http://linuxjournel.com"><img src="/2009/style/ljcolor.png" /></a></li>
-					<li><a href="http://www.linuxpromagazine.com/"><img src="/2009/style/LinuxPro-logo.png" /></a></li>
+					<li><a href="http://lwn.net"><img src="/2010/style/lwnlogo.png" /></a></li>
+					<li><a href="http://linuxjournel.com"><img src="/2010/style/ljcolor.png" /></a></li>
+					<li><a href="http://www.linuxpromagazine.com/"><img src="/2010/style/LinuxPro-logo.png" /></a></li>
 				</ul>
-			</li>
+			</div>
 
 
 		</ul>
