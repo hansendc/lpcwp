@@ -43,6 +43,7 @@
 				<br><a href="http://hp.com"><img src="/2010/style/hp_logo.gif" /></a>
 				<br>
 				<br><a href="http://canonical.com"><img src="/2010/style/canonical.png" /></a>
+<!--
 				<h3><?php _e( 'Media Sponsors', 'sandbox' ) ?></h3>
 				<ul class="sponsor-links">
 
@@ -50,6 +51,7 @@
 					<li><a href="http://linuxjournel.com"><img src="/2010/style/ljcolor.png" /></a></li>
 					<li><a href="http://www.linuxpromagazine.com/"><img src="/2010/style/LinuxPro-logo.png" /></a></li>
 				</ul>
+-->
 			</div>
 
 
