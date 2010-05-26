@@ -19,19 +19,5 @@
 		<div id="site-description"><?php bloginfo('description') ?></div>
 	</div><!--  #header -->
 
-	<div id="access">
-		<div class="skip-link"><a href="#content" title="<?php _e( 'Skip to content', 'sandbox' ) ?>"><?php _e( 'Skip to content', 'sandbox' ) ?></a></div>
+	<?php include "header_navbar.html"; ?>
 
-<div id="menu">
-	<ul>
-		<li><a href="<?php bloginfo('home') ?>/" />Blog</a></li>
-		<li class="page_item page-item"><a href="<?php bloginfo('url') ?>/attend/" title="Attend">Attend</a></li>
-		<li class="page_item page-item"><a href="<?php bloginfo('url') ?>/register/" title="Register">Register</a></li>
-		<li class="page_item page-item"><a href="<?php bloginfo('url') ?>/schedule/" title="Schedule">Schedule</a></li>
-		<li class="page_item page-item"><a href="<?php bloginfo('url') ?>/program/" title="Program">Program</a></li>
-		<li class="page_item page-item"><a href="<?php bloginfo('url') ?>/contact/" title="Contact">Contact</a></li>
-		<li class="page_item page-item"><a href="<?php bloginfo('url') ?>/faqs" title="FAQs">FAQs</a></li>
-	</ul>
-</div>
-
-	</div><!-- #access -->
