@@ -27,33 +27,7 @@
 				</ul>
 			</li>
 
-			<div id="sponsor-links">
-				<h3><?php _e( 'Sponsors', 'sandbox' ) ?></h3>
-				<br>
-				<h5><?php _e( 'Platinum', 'sandbox' ) ?></h5>
-				<br><a href="http://intel.com"><img src="/2010/style/intel_logo.png" /></a>
-				<br>
-				<br><a href="http://qualcomm.com"><img src="/2010/style/Qualcomm.png" /></a>
-				<br>
-				<br><a href="http://ibm.com"><img src="/2010/style/IBMtm.png" /></a>
-				<br>&nbsp;
-				<h5><?php _e( 'Gold', 'sandbox' ) ?></h5>
-				<br><a href="http://google.com"><img src="/2010/style/google_logo.gif" /></a>
-				<h5><?php _e( 'Silver', 'sandbox' ) ?></h5>
-				<br><a href="http://hp.com"><img src="/2010/style/hp_logo.gif" /></a>
-				<br>
-				<br><a href="http://canonical.com"><img src="/2010/style/canonical.png" /></a>
-<!--
-				<h3><?php _e( 'Media Sponsors', 'sandbox' ) ?></h3>
-				<ul class="sponsor-links">
-
-					<li><a href="http://lwn.net"><img src="/2010/style/lwnlogo.png" /></a></li>
-					<li><a href="http://linuxjournel.com"><img src="/2010/style/ljcolor.png" /></a></li>
-					<li><a href="http://www.linuxpromagazine.com/"><img src="/2010/style/LinuxPro-logo.png" /></a></li>
-				</ul>
--->
-			</div>
-
+			<?php include "sidebar.html"; ?>
 
 		</ul>
 	</div><!-- #primary .sidebar -->
