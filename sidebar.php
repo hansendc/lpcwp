@@ -4,17 +4,18 @@
 <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar(1) ) : // begin primary sidebar widgets ?>
 
 <?php endif; // end primary sidebar widgets  ?>
-<!--
 			<li id="attend-links">
-				<h3><?php _e( 'BoFS and Schedule', 'sandbox' ) ?></h3>
+				<h3><?php _e( 'Participate', 'sandbox' ) ?></h3>
 				<ul>
-				<li class="page_item page-item-1"><a href="/2010/schedule/" title="Schedule">Schedule</a></li>
-				<li class="page_item page-item-2"><a href="/ocw/events/2010bofs/proposals/" title="BoF list">BoF list</a></li>
-				<li class="page_item page-item-2"><a href="<?php bloginfo('url') ?>/submit/" title="Proposal List">Proposal list</a></li>
-				</ul>
-			</li>
+				<li class="page_item page-item-1"><a href="http://events.linuxfoundation.org/component/registrationpro/?func=details&did=37" title="Register">Register to Attend</a></li>
+				<li class="page_item page-item-2"><a href="/2010/ocw/events/LPC2010/proposals" title="Proposal list">Submit a Presentation</a></li>
+				<li class="page_item page-item-2"><a href="/2010/ocw/events/LPC2010BOFS/proposals" title="Proposal List">Submit a BoF</a></li>
+<!--
+				<li class="page_item page-item-2"><a href="/2010/ocw/events/LPC2010MC/proposals" title="Proposal List">Submit a MicroConference</a></li>
 -->
 
+				</ul>
+			</li>
 
 			<li id="social-links">
 				<h3><?php _e( 'Stay Connected', 'sandbox' ) ?></h3>
