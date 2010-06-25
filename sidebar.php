@@ -9,6 +9,7 @@
 				<ul>
 				<li class="page_item page-item-1"><a href="http://events.linuxfoundation.org/component/registrationpro/?func=details&did=37" title="Register">Register to Attend</a></li>
 				<li class="page_item page-item-2"><a href="/2010/ocw/events/LPC2010/proposals" title="Proposal list">Submit a Presentation</a></li>
+				<li class="page_item page-item-2"><a href="/2010/ocw/events/LPC2010MC/proposals" title="Proposal list">Suggestions for a Microconfs</a></li>
 				<li class="page_item page-item-2"><a href="/2010/ocw/events/LPC2010BOFS/proposals" title="Proposal List">Submit a BoF</a></li>
 <!--
 				<li class="page_item page-item-2"><a href="/2010/ocw/events/LPC2010MC/proposals" title="Proposal List">Submit a MicroConference</a></li>
