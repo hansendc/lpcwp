@@ -7,13 +7,13 @@
 			<li id="attend-links">
 				<h3><?php _e( 'Participate', 'sandbox' ) ?></h3>
 				<ul>
-				<li class="page_item page-item-1"><red>Registration is now Closed</red></li>
+				<li class="page_item page-item-1"><red>Registration is Coming Soon</red></li>
+				<!--
 				<li class="page_item page-item-2"><a href="/2010/ocw/events/LPC2010/proposals" title="Proposal list">View Presentations</a></li>
 				<li class="page_item page-item-2"><a href="/2010/ocw/events/LPC2010MC/proposals" title="Proposal list">Suggestions for a Microconfs</a></li>
 				<li class="page_item page-item-2"><a href="/2010/ocw/events/LPC2010BOFS/proposals" title="Proposal List">Submit a BoF</a></li>
-<!--
 				<li class="page_item page-item-2"><a href="/2010/ocw/events/LPC2010MC/proposals" title="Proposal List">Submit a MicroConference</a></li>
--->
+				-->
 
 				</ul>
 			</li>
@@ -24,7 +24,7 @@
 					<li><a href="<?php bloginfo('rss2_url') ?>" title="<?php printf( __( '%s latest posts', 'sandbox' ), wp_specialchars( get_bloginfo('name'), 1 ) ) ?>" rel="alternate" type="application/rss+xml"><?php _e( 'Blog Feed', 'sandbox' ) ?></a></li>
 					<li><a href="https://twitter.com/linuxplumbers">Twitter</a></li>
 					<li><a href="https://identi.ca/linuxplumbers">identi.ca</a></li>
-					<li><a href="http://lists.osuosl.org/mailman/listinfo/announce">Announce list</a></li>
+					<li><a href="http://lists.osuosl.org/mailman/listinfo/lpc-announce">Announce list</a></li>
 					<li><a href="http://planet.linuxplumbersconf.org/">Planet LPC</a></li>
 				</ul>
 			</li>
