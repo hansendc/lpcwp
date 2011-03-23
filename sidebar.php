@@ -8,12 +8,9 @@
 				<h3><?php _e( 'Participate', 'sandbox' ) ?></h3>
 				<ul>
 				<li class="page_item page-item-1"><red>Registration is Coming Soon</red></li>
-				<!--
-				<li class="page_item page-item-2"><a href="/2010/ocw/events/LPC2010/proposals" title="Proposal list">View Presentations</a></li>
-				<li class="page_item page-item-2"><a href="/2010/ocw/events/LPC2010MC/proposals" title="Proposal list">Suggestions for a Microconfs</a></li>
-				<li class="page_item page-item-2"><a href="/2010/ocw/events/LPC2010BOFS/proposals" title="Proposal List">Submit a BoF</a></li>
-				<li class="page_item page-item-2"><a href="/2010/ocw/events/LPC2010MC/proposals" title="Proposal List">Submit a MicroConference</a></li>
-				-->
+				<li class="page_item page-item-2"><a href="/2011/ocw/events/LPC2011/proposals" title="Proposal list">Submit a Presentation</a></li>
+				<li class="page_item page-item-2"><a href="/2011/ocw/events/LPC2011BOFS/proposals" title="Proposal List">Submit a BoF</a></li>
+				<li class="page_item page-item-2"><a href="/2011/ocw/events/LPC2011MC/proposals" title="Proposal List">Submit a MicroConference</a></li>
 
 				</ul>
 			</li>
