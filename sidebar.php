@@ -7,7 +7,7 @@
 			<li id="attend-links">
 				<h3><?php _e( 'Participate', 'sandbox' ) ?></h3>
 				<ul>
-				<li class="page_item page-item-1"><red>Registration is Coming Soon</red></li>
+				<li class="page_item page-item-1"><a href="http://www.regonline.com/Register/Checkin.aspx?EventID=959018">Register to attend</a></li>
 				<li class="page_item page-item-2"><a href="/2011/ocw/events/LPC2011/proposals" title="Proposal list">Submit a Presentation</a></li>
 				<li class="page_item page-item-2"><a href="/2011/ocw/events/LPC2011BOFS/proposals" title="Proposal List">Submit a BoF</a></li>
 				<li class="page_item page-item-2"><a href="/2011/ocw/events/LPC2011MC/proposals" title="Proposal List">Submit a MicroConference</a></li>
